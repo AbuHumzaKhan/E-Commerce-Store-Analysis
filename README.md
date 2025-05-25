@@ -16,7 +16,9 @@ This project analyzes data from an online retail store to understand customer be
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview]([Images/dashboard.png](https://github.com/AbuHumzaKhan/E-Commerce-Store-Analysis/blob/main/E-commerce%20Sales%20Dashboard.pbix))
+![Dashboard Preview](https://github.com/AbuHumzaKhan/E-Commerce-Store-Analysis/blob/main/Images/dashboard.png)
+
+> **Note:** Make sure the image `dashboard.png` is actually uploaded to the `Images/` folder in your repo.
 
 ---
 
@@ -58,14 +60,14 @@ Key steps:
 
 ## 🔗 Live Dashboard
 
-> "C:\Users\Dell\Downloads\Power BI project's\E-commerce Sales Dashboard.pbix"
+You can download the dashboard file from this repo:  
+[📥 E-commerce Sales Dashboard.pbix](https://github.com/AbuHumzaKhan/E-Commerce-Store-Analysis/blob/main/E-commerce%20Sales%20Dashboard.pbix)
+
+> _To view the dashboard, open the `.pbix` file using Power BI Desktop._
 
 ---
 
 ## 🙌 Author
 
-- [Abu Humza Khan]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/abu-humza-khan/))
-- [GitHub Profile]([https://github.com/your-username](https://github.com/AbuHumzaKhan))
-
-
-
+- [Abu Humza Khan](https://www.linkedin.com/in/abu-humza-khan/)
+- [GitHub Profile](https://github.com/AbuHumzaKhan)
