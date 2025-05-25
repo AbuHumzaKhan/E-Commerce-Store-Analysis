@@ -14,14 +14,6 @@ This project analyzes data from an online retail store to understand customer be
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard Preview] C:\Users\Dell\Downloads\Power BI project's
-
-> **Note:** Make sure the image `dashboard.png` is actually uploaded to the `Images/` folder in your repo.
-
----
-
 ## 📌 Objectives
 
 - Analyze customer segmentation
