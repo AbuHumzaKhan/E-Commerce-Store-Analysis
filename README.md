@@ -16,7 +16,7 @@ This project analyzes data from an online retail store to understand customer be
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview]([Images/dashboard.png](https://github.com/AbuHumzaKhan/E-Commerce-Store-Analysis/blob/main/E-commerce%20Sales%20Dashboard.pbix))
 
 ---
 
