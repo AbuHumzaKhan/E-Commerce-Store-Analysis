@@ -16,7 +16,7 @@ This project analyzes data from an online retail store to understand customer be
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](https://github.com/AbuHumzaKhan/E-Commerce-Store-Analysis/blob/main/Images/dashboard.png)
+![Dashboard Preview] C:\Users\Dell\Downloads\Power BI project's
 
 > **Note:** Make sure the image `dashboard.png` is actually uploaded to the `Images/` folder in your repo.
 
